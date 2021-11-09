@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jenil13
+- 👋 Hi, I’m Jenil Jain @jenil13
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on open source projects
