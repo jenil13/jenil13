@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jenil Jain @jenil13
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Cloud Technologies
-- 💞️ I’m looking to collaborate on open source projects as well as Internship opportunities
+- 💞️ I’m looking to collaborate on open source projects as well as looking for Internship opportunities
 - 📫 How to reach me jeniljain13.jj@gmail.com
 
 <!---
